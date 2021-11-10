@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+.table1 {
+    background-color: beige;
+    width: 100%; 
+    border-collapse: collapse;
+    background-color: aquamarine;
+    border-bottom: 2px solid black;
+}
+
+.site {
+    text-align: left;
+    width: 30%;
+}
+
+.category {
+    text-align: center;
+    width: 30%;
+}
+
+.cart {
+    text-align: right;
+    width: 40%;
+}
+
+.table2 {
+    background-color: beige;
+    width: 500px; 
+    border-collapse: collapse;
+    border-bottom: 2px solid darkgrey;
+    float: left;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+    text-align: left;
+}
+
+.order {
+    font-size: 12px;
+    text-align: left;
+}
+
+.Thank-you {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.box {
+    border-bottom: 2px solid darkgrey;
+    padding: 0;
+    width: 500px;
+    float: left
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.table3 {
+    background-color: beige;
+    width: 500px; 
+    border-collapse: collapse;
+    border-bottom: 2px solid darkgrey;
+    float: left;
+}
+
+
+.left {
+    text-align: left;
+    width: 50%;
+}
+
+.right {
+    text-align: left;
+    width: 30%;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#underline {
+    text-decoration: underline;
+}
+
+.box2 {
+    float: right;
+    background-color: yellow;
+    border: 2px solid yellow;
+    width: 200px;
+    height: 100px;
+    padding: 10px; 
+}
+
+.float-left {
+    float: left;
+}
+
+.float-center {
+    float: center;
+}
+
+.float-right {
+    float: right;
+}
